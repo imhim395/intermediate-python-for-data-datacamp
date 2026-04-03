@@ -5,7 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="01e00343-111a-4917-acdd-c2a4cc918b9c" name="Changes" comment="commit and push">
-      <change afterPath="$PROJECT_DIR$/histograms with matplotlib.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/plot customization.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -46,7 +46,9 @@
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "ModuleVcsDetector.initialDetectionPerformed": "true",
+    "Python.histograms with matplotlib.executor": "Run",
     "Python.matplotlib example.executor": "Run",
+    "Python.plot customization.executor": "Run",
     "Python.simple scatter plot.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager": "true",
@@ -85,7 +87,15 @@
       <option name="project" value="LOCAL" />
       <updated>1775242886787</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="commit and push">
+      <option name="closed" value="true" />
+      <created>1775244564270</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1775244564270</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
